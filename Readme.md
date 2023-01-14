@@ -25,3 +25,5 @@ We can convert this bytecode into the opcode using the website : https://ethersc
 ![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/05.png)
 
 We have to write 0x... and then paste the copied opcode.
+<br/>
+The opcodes for the operations can be seen on the website : https://github.com/crytic/evm-opcodes
