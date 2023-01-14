@@ -27,3 +27,11 @@ We can convert this bytecode into the opcode using the website : https://ethersc
 We have to write 0x... and then paste the copied opcode.
 <br/>
 The opcodes for the operations can be seen on the website : https://github.com/crytic/evm-opcodes
+
+Some important points -
+
+1. Contract bytcode is public in readable form.
+2. Contract doesn't have to be public.
+3. Bytecode is immutable.
+4. ABI acts as a bridge between applications and smart contract.
+5. ABI and Bytecode cannot be generated without source code.
