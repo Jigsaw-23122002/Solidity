@@ -45,3 +45,15 @@ Mainnet's network ID is 1. Testnets have network ID 3,4 and 42.
 Example of mainnet is Ethereum and that of testnet is Rinkeby test network.
 
 ![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/06.png)
+
+## Metamask
+
+Metamask is an ethereum wallet which is used to store ether, send ether, receive ether, run decentralized applications and swap tokens.
+
+Download the metamask extension into the google chrome.
+<br/>
+Follow the steps for getting faucet ethers in our account from the video - https://www.youtube.com/watch?v=f9AbCK6PwmM&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&index=7
+
+Rinkeby test network is deprecated. So we use :
+<br/>
+https://sepoliafaucet.net/
