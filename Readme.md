@@ -24,4 +24,4 @@ We can convert this bytecode into the opcode using the website : https://ethersc
 
 ![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/05.png)
 
-We have to write 0x... and the paste the copied opcode.
+We have to write 0x... and then paste the copied opcode.
