@@ -35,3 +35,13 @@ Some important points -
 3. Bytecode is immutable.
 4. ABI acts as a bridge between applications and smart contract.
 5. ABI and Bytecode cannot be generated without source code.
+
+## Mainnet vs Testnet
+
+Mainnet is that part of the ethereum blockchain netwrok where real ether transaction takes place. Testnet is that part of ethereum blockchain network where fake ether transactions takes place. Testnet is used when we are testing the blockchain network. They are used for testing smart contracts and decentralized applications.
+<br/>
+Mainnet's network ID is 1. Testnets have network ID 3,4 and 42.
+<br/>
+Example of mainnet is Ethereum and that of testnet is Rinkeby test network.
+
+![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/05.png)
