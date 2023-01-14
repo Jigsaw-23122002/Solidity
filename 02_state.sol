@@ -20,4 +20,10 @@ contract state {
     function setAge() public {
         age = 10;
     } //.....allowed
+    /*
+    To change default values of the state variables - 
+    1) Using the contracts constructor.
+    2) Initializing the variable at declaration.
+    3) Using the setter function.
+    */
 }
