@@ -25,5 +25,8 @@ contract state {
     1) Using the contracts constructor.
     2) Initializing the variable at declaration.
     3) Using the setter function.
+    4) Permanantly stored in contract storage.
+    5) Cost gas(expensive).
+    6) Storage is not dynamically alllocated.
     */
 }
