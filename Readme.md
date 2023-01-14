@@ -44,4 +44,4 @@ Mainnet's network ID is 1. Testnets have network ID 3,4 and 42.
 <br/>
 Example of mainnet is Ethereum and that of testnet is Rinkeby test network.
 
-![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/05.png)
+![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/06.png)
