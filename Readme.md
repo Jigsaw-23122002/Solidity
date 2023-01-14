@@ -1,6 +1,6 @@
 # Solidity
 
-![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/01.png)
+![image](https://arturonavarro.com/wp-content/uploads/2022/10/solidity-lenguaje-programacion-actualizacion-930x563.jpeg)
 
 Course : https://www.youtube.com/watch?v=wXo3S8k1ueg&list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i&index=1
 
