@@ -17,3 +17,11 @@ Smart contract is the code written in solidity file having .sol as extension. Wh
 Now compile the sample contract and we can see the ABI and Byte Code option which on copying and pasting in notepad looks something like -
 
 ![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/04.png)
+
+The Byte code is given in the "Object" attrubute of the copied byte code.
+<br/>
+We can convert this bytecode into the opcode using the website : https://etherscan.io/opcode-tool
+
+![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/05.png)
+
+We have to write 0x... and the paste the copied opcode.
