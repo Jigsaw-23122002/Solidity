@@ -57,3 +57,7 @@ Follow the steps for getting faucet ethers in our account from the video - https
 Rinkeby test network is deprecated. So we use :
 <br/>
 https://sepoliafaucet.net/
+
+## Key Points of Solidity
+
+![image](https://github.com/Jigsaw-23122002/Solidity/blob/main/Images/07.png)
