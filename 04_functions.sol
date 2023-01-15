@@ -12,4 +12,9 @@ contract funct {
     function setter() public {
         age = age + 1;
     }
+
+    function setter(uint256 param) public {
+        age = param;
+    }
+    // Function overloading based on the number of arguments.
 }
