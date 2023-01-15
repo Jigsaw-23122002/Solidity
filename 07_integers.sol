@@ -9,5 +9,6 @@ Integers in solidity is of two types -
 * int is alias to int256 and uint is alias to uint256
 * the range of signed integer datatype is -2^(n-1) to 2^(n-1)-1;
 * the range of unsigned integer datataype is 0 to 2^(n-1)-1;
+* integer overflow concept in solidity is same as in cpp
 
 */
