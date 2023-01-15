@@ -17,4 +17,13 @@ contract funct {
         age = param;
     }
     // Function overloading based on the number of arguments.
+
+    /*
+    Important Points to note about functions -
+    1) When you call a setter function it creates a transaction that needs to be mined and costs a gas
+    because it changes the blockchain. Vice versa for getter function.
+    2) When you declare a public state variable a getter function is automatically created.
+    3) By default variable visibility is private.
+    
+    */
 }
