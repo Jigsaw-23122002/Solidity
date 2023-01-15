@@ -1,0 +1,8 @@
+/*
+Pure functions are those functions where there is neither read nor write operation taking place on
+the state varaibles.
+View functions are those functions which can only read the state variables ut cannot perform write
+operations on the state variable.
+These functions can have the local variables inside them and can perform any operations on those local
+variables.
+*/
