@@ -3,6 +3,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract enumeration {
+    // enums can be declared inside as well as outside the contract.
     enum user {
         allowed,
         not_allowed,
